@@ -4,7 +4,7 @@ A lightweight Bash-based IP geolocation CLI tool that retrieves detailed network
 
 ## Features
 - Continent, Country, Region, City, ZIP
-- Latitude & Longitude (approximate)
+- Latitude & Longitude (approximate only)
 - Timezone & Currency
 - ISP, Organization, ASN details
 - Mobile / Proxy / Hosting detection
