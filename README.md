@@ -1,4 +1,4 @@
-# Jasnoor IP Locator (Bash)
+# IP Locator (Bash)
 
 A lightweight Bash-based IP geolocation CLI tool that retrieves detailed network and location information using a public API.
 
